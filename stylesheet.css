@@ -1,0 +1,22 @@
+.bd {
+  background-image: url("http://i64.tinypic.com/vdhdo9.jpg");
+}
+.my {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  display: table;
+}
+.img {
+  margin: 3%;
+}
